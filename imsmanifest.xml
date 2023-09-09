@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_5VTBZUUTA5J_course_id" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                        http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>CAM 1.3</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="Số_thập_phân_ORG">
+    <organization identifier="Số_thập_phân_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>Số thập phân</title>
+      <item identifier="Untitled1_SCO" identifierref="__5VTBZUUTA5J_course_id_RES" isvisible="true">
+        <title>Số thập phân</title>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+        <imsss:deliveryControls tracked="true" completionSetByContent="false" objectiveSetByContent="false" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5VTBZUUTA5J_course_id_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5p220hV8Ea3.png" />
+      <file href="mobile/6JcjaQy1G5N.png" />
+      <file href="mobile/5b0zSITZJlM.png" />
+      <file href="mobile/6ZGq5UNSmUR.png" />
+      <file href="mobile/6hDQiTva5ap_80.jpg" />
+      <file href="story_content/6FNaDMX04hp_44100_48_0.mp3" />
+      <file href="story_content/video_6qGDDG0fr0F_22_48_602x338.mp4" />
+      <file href="mobile/poster_6JZu0E6LBOY_video_6qGDDG0fr0F_22_48_602x338.jpg" />
+      <file href="mobile/5dbtOynwRKG.png" />
+      <file href="mobile/6X93zHwISOn_P_47_14_187_39.png" />
+      <file href="story_content/video_5bP4veJxeRP_22_48_602x338.mp4" />
+      <file href="mobile/poster_6EpI7wyvVde_video_5bP4veJxeRP_22_48_602x338.jpg" />
+      <file href="mobile/5ViBuqJUkVw.png" />
+      <file href="story_content/6Q0Xlu8PZSQ_44100_48_0.mp3" />
+      <file href="mobile/6KBt1RcAylw.png" />
+      <file href="mobile/6WCGi4VMmzP_80.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6jf1vAtGIkf.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
